@@ -9,4 +9,11 @@
     <string name="buttonrural">Rural</string>
     <string name="textvivienda">Tu respuesta</string>
     <string name="textnombreapellido">Tu respuesta</string>
+    <string name="texthora" />
+    <string name="checkgato">Gato</string>
+    <string name="checkperro">Perro</string>
+    <string name="checkPollo">Pollo</string>
+    <string name="checkPato">Pato</string>
+    <string name="checkOtro">Otro</string>
+    <string name="buttonenviar">Enviar</string>
 </resources>
