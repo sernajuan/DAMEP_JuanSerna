@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DAMEP_JuanSerna</string>
+    <string name="textapellidonombre">Tu respuesta</string>
+    <string name="textcorreoelectronico">Tu respuesta</string>
+    <string name="textpassword">Tu respuesta</string>
+    <string name="texttelefono">Tu respuesta</string>
+    <string name="textfechanacimiento">22/03/2023</string>
+    <string name="buttonurbano">Urbano</string>
+    <string name="buttonrural">Rural</string>
+    <string name="textvivienda">Tu respuesta</string>
+    <string name="textnombreapellido">Tu respuesta</string>
+</resources>
